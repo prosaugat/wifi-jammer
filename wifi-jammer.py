@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#prosaugat
+#prosaugat #wifi-jammer-tool
 
 import logging
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR) # Shut up Scapy
